@@ -1,0 +1,1 @@
+trings pointers and arrays
