@@ -1,1 +1,1 @@
- dynalic libraries
+dynamic_libraries
